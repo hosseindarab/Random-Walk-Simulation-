@@ -1,5 +1,5 @@
 # Random-Walk-Simulation
-Master-Thesis
+Master-Thesis 
 ## This projects includes seven scripts:
 
 1. simulation.py
