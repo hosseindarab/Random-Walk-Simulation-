@@ -1,5 +1,9 @@
-# Random-Walk-Simulation
-Master-Thesis
+# Random-Walk-Simulation - Master-Thesis 
+
+The main goal of this dissertation is
+to build a software capable to simulate the path tracking of the persons who are
+walking on a cover of IST(Illuminated Smart Tiles) in order to determine the error rate of the sensors that are responsible to detect and follow the exact positions of the person’s feet on the tiles.
+
 ## This projects includes seven scripts:
 
 1. simulation.py
